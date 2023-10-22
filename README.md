@@ -1,5 +1,6 @@
 <h1> Aayush Kurmi <img src="https://komarev.com/ghpvc/?username=IamAayush2080&amp;color=green" alt="view"></h1>
 <img src="https://github-profile-trophy.vercel.app/?theme=juicyfresh&amp;username=IamAayush2080" alt="trophy" height=225px" width="620px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAayush2080&amp;theme=dark" alt="Streaks" wi height="225px">
 - 👋 Hi, I’m @IamAayush2080
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
